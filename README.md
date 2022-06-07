@@ -1,6 +1,6 @@
 # Organizando meus estudos - Santander Bootcamp Mobile Developer & DIO :hotsprings:
 
-## Módulo 1 :white_check_mark: [saiba mais...](https://github.com/thauamoreira/Estudos/tree/main/Modulo%201)
+## [Módulo 1](https://github.com/thauamoreira/Estudos/tree/main/Modulo%201) :white_check_mark: 
 
 - [x] Introdução a Programação e Pensamento Computacional
 - [x] Introdução ao Git e ao GitHub
