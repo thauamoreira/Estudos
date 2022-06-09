@@ -6,9 +6,9 @@
 - [x] Introdução ao Git e ao GitHub
 - [x] Desafio de Projeto - (Criando meu primeiro Repositório no GiHub para Compartilhar meu Progresso)
 
-## Módulo 2
+## Módulo 2 :arrows_clockwise:
 
-- [ ] Introdução ao Kotlin
+- [x] Introdução ao Kotlin
 - [ ] Fundamentos de Orientação a Objetos com Kotlin
 - [ ] Aplicando Conceitos de Coleções, Arrays e Listas
 - [ ] Desenvolvimento Mobile Nativo Para Android
