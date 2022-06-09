@@ -6,7 +6,7 @@
 - [x] Introdução ao Git e ao GitHub
 - [x] Desafio de Projeto - (Criando meu primeiro Repositório no GiHub para Compartilhar meu Progresso)
 
-## [Módulo 2](https://github.com/thauamoreira/Estudos/tree/main/Modulo%202) :arrows_clockwise:
+## [Módulo 2](https://github.com/thauamoreira/Estudos/tree/main/Modulo%202) :arrows_clockwise:  
 
 - [x] Introdução ao Kotlin
 - [ ] Fundamentos de Orientação a Objetos com Kotlin
@@ -19,7 +19,7 @@
 - [ ] Desafios iniciais - Santander Mobile Developer
 - [ ] App Nativo Sobre Futebol Feminino com Android Jetpack e Java
 
-## Módulo 3 :clock130:
+## [Módulo 3](https://github.com/thauamoreira/Estudos/tree/main/Modulo%203) :clock130:
 
 - [ ] Projetando o Primeiro Aplicativo Android Usando Kotlin
 - [ ] Melhores Práticas para Debugging, Tratamento de Erros e Exceções
