@@ -1,6 +1,6 @@
 ## Módulo 2 :arrows_clockwise:
 
-- [x] Introdução ao Kotlin
+- [x] Introdução ao Kotlin [Certificado](https://github.com/thauamoreira/Estudos/blob/main/Modulo%202/Certificados/Introdu%C3%A7%C3%A3o%20ao%20Kotlin.pdf)
 
 - [ ] Fundamentos de Orientação a Objetos com Kotlin
 
@@ -22,4 +22,4 @@
 
   
 
-##### Veja meus certificados de conclusão clicando [aqui](https://github.com/thauamoreira/Estudos/tree/main/Modulo%201/Certificados)
+##### Veja meus certificados de conclusão clicando [aqui](https://github.com/thauamoreira/Estudos/tree/main/Modulo%202/Certificados)
