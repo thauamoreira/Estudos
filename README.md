@@ -9,8 +9,8 @@
 ## [Módulo 2](https://github.com/thauamoreira/Estudos/tree/main/Modulo%202) :arrows_clockwise:  
 
 - [x] Introdução ao Kotlin
-- [ ] Fundamentos de Orientação a Objetos com Kotlin
-- [ ] Aplicando Conceitos de Coleções, Arrays e Listas
+- [x] Fundamentos de Orientação a Objetos com Kotlin
+- [x] Aplicando Conceitos de Coleções, Arrays e Listas
 - [ ] Desenvolvimento Mobile Nativo Para Android
 - [ ] Componentes, Layouts e UI/UX Em Apps Android
 - [ ] Java e Kotlin Juntos!? Construindo Apps Android

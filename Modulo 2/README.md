@@ -2,9 +2,9 @@
 
 - [x] Introdução ao Kotlin [Certificado](https://github.com/thauamoreira/Estudos/blob/main/Modulo%202/Certificados/Introdu%C3%A7%C3%A3o%20ao%20Kotlin.pdf)
 
-- [ ] Fundamentos de Orientação a Objetos com Kotlin
+- [x] Fundamentos de Orientação a Objetos com Kotlin [Certificado]()
 
-- [ ] Aplicando Conceitos de Coleções, Arrays e Listas
+- [x] Aplicando Conceitos de Coleções, Arrays e Listas [Certificado]()
 
 - [ ] Desenvolvimento Mobile Nativo Para Android
 
